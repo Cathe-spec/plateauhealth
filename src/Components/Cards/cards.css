@@ -1,0 +1,41 @@
+
+.sections {
+    width: 100%;
+    padding: 100px 30px 30px 30px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.sections .section {
+    width: 100%;
+    padding: 5%;
+    border-radius: 10px;
+    /* height: 250px; */
+    min-height: 100px;
+    background: #f4f6fd;
+    border: 1px solid #b6c3f4;
+    -webkit-box-shadow: -1px 0px 25px 0px rgba(0,0,0,0.1);
+-moz-box-shadow: -1px 0px 25px 0px rgba(0,0,0,0.1);
+box-shadow: -1px 0px 25px 0px rgba(0,0,0,0.1);
+}
+.sections .section h3 {
+    font-weight: 600;
+}
+
+.icon-home {
+    float: left;
+    margin-right: 20px;
+    width: 60px;
+    height: 80px;
+}
+.icon-home i {
+    font-size: 2.5em;
+    border-radius: 50%;
+    padding: 10px 17px;
+}
+.btn {
+    color: #fff !important;
+   background-color: #28a745;
+   border-color: #28a745;
+   width: 100% !important;
+   display: block !important;
+}

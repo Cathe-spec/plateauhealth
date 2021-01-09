@@ -1,0 +1,16 @@
+.display-block {
+    display: block;
+  }
+  
+  .display-none {
+    display: none;
+  }
+
+  .modal {
+    top: 0;
+    left: 0;
+    width:200%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+  }
+  .w3-animate-top{position:relative;animation:animatetop 0.4s}@keyframes animatetop{from{top:-300px;opacity:0} to{top:0;opacity:1}}

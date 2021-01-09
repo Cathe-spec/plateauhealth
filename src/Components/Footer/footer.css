@@ -1,0 +1,14 @@
+.footer {
+    width: 100%;
+    text-align: center;
+    padding: 2% 0;
+
+}
+
+.footer > a {
+    color: green;
+}
+
+.footer > a:hover {
+    text-decoration: underline;
+}
